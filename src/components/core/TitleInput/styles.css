@@ -1,0 +1,12 @@
+.title_input {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 10px;
+  margin: 10px 0px;
+}
+.title_input__input {
+  border: none;
+  outline: none;
+  border-bottom: 1px solid gray;
+}
